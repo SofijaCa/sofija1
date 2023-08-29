@@ -8,3 +8,4 @@ public class Main {
 }
 system.out.println ("Revert")
 system.out.println ("Amend")
+system.out.println ("push")
