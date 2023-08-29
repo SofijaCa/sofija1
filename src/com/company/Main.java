@@ -6,3 +6,5 @@ public class Main {
 	// write your code here
         System.out.println("test");}
 }
+system.out.println ("Revert")
+system.out.println ("Amend")
